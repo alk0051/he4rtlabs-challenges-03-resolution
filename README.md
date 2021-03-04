@@ -1,7 +1,7 @@
 # he4rtlabs-challenges-03-resolution
-Desafio da He4rt &lt;3
 
-## Projeto feito como parte de um desafio da He4rtDevelopers
+Projeto feito como parte de um desafio da He4rtDevelopers
+
 
 ### Backend
  
