@@ -2,6 +2,7 @@
 
 Projeto feito como parte de um desafio da He4rtDevelopers
 
+Por enquanto fiz apenas o back-end.
 
 ### Backend
  
